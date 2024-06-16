@@ -6,7 +6,7 @@ Ecommerce platform for seller
 
 poetry init\
 poetry shell\
-poetry add fastapi
+poetry install
 \
 \
 for Db connection\
