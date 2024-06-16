@@ -6,9 +6,9 @@ Ecommerce platform for seller
 
 poetry init\
 poetry shell\
-poetry add fastapi\ 
+poetry add fastapi
 \
 \
 for Db connection\
 add sqlalchemy\
-now move forward with mvc pattern\
+now move forward with mvc pattern
